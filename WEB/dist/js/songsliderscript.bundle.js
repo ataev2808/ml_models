@@ -1,0 +1,1 @@
+new Swiper(".songs-slider",{navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"},pagination:{el:".swiper-pagination",clickable:!0,dynamicBullets:!0},keyboard:{enabled:!0},mousewheel:{sensivity:1},slidesPerView:1,centeredSlides:!0,slidesPerGroup:1,speed:800,breakpoints:{767:{slidesPerView:1.8}}});
